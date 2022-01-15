@@ -5,8 +5,8 @@ app = Flask(__name__)
 
 @app.route('/user/<name>')
 def user(name='Jhasmany'):
-    age = 19
-    my_list = [1,2,3,4]
+    age = 15
+    my_list = [1,2,3,4,5,6,7,8,9,10]
     return render_template('user.html', name=name, age= age, list=my_list)
 
 if __name__ ==  '__main__':
