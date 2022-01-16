@@ -19,4 +19,8 @@ D.C.S | Curso Online: Codigo Facilito | Cursos: Curso de Flask - Codigo Facilito
 > * [Para descargar Git](https://git-scm.com/) <br>
 
 ## YOUTUBE: Curso de Flask - Codigofacilito
-[![Curso de Flask - Codigo Facilito](https://scontent.flpb2-1.fna.fbcdn.net/v/t31.18172-8/16700628_1452681534744493_496916868140602058_o.jpg?_nc_cat=100&ccb=1-5&_nc_sid=9267fe&_nc_ohc=eFLH6ggeq5wAX_EYWTa&_nc_ht=scontent.flpb2-1.fna&oh=00_AT-oQaSxlw_5IvX-UvyuFw5DVjhUzWjQnOkP5FK5-fbyzg&oe=62099C4D)](https://youtube.com/playlist?list=PLagErt3C7iltAydvN6SgCVKsOH4xQQKsk)
+[![Curso de Flask - Codigo Facilito](https://user-images.githubusercontent.com/36086876/149682172-1951c8ea-28c6-406f-8b34-44fcf27e3469.png)](https://youtube.com/playlist?list=PLagErt3C7iltAydvN6SgCVKsOH4xQQKsk)
+
+## PORTADA GITHUB.
+![developer github](https://user-images.githubusercontent.com/36086876/149681760-947f442b-a455-4f4a-80ab-1ce8341c83c6.png)
+
